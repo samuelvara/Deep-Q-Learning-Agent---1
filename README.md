@@ -1,4 +1,4 @@
-# Deep-Q-Learning-Agent---1
+# Reinforcement-Learning---Shortest-Path-with-Enemy
 
 The player spawns on a 10x10 grid, with food and enemy spawned on the same grid.
 
